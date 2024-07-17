@@ -54,7 +54,7 @@ def init_chat_bot():
     3/ Ensure your response resonates with the user's query.
     4/ Keep it concise and easy to grasp.
     5/ NOTE: MAKE YOUR RESPONSES VERY WELL-EXPLAINED
-    6/ Pay close attention to the full_text column in the csv and also use it to answer questions the user throws at you
+
 
     User Question:
     {question}
